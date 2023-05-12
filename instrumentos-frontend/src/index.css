@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.card-img-item {
+  cursor: pointer;
+  width: 150px;
+}
+
+.costo-envio {
+  color: orange;
+}
+
+.costo-envio-gratis {
+  color: green;
+}
+
+.img-detalle-item {
+  width: 300px;
+  margin: auto;
+}
+
+.detalle-vendidos {
+  color: gray;
+}
+
+.col-divisor {
+  border-left: 1px solid lightgray;
+}
